@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "model": "2022",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "28 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 400,
+    "image": "toyota_camry.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Honda Civic",
+    "model": "2021",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "30 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 350,
+    "image": "honda_civic.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ford Mustang",
+    "model": "2022",
+    "seater": 4,
+    "fuelType": "Gasoline",
+    "mileage": "25 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 500,
+    "image": "ford_mustang.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tesla Model 3",
+    "model": "2023",
+    "seater": 5,
+    "fuelType": "Electric",
+    "mileage": "300 miles per charge",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 600,
+    "image": "tesla_model_3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chevrolet Suburban",
+    "model": "2022",
+    "seater": 8,
+    "fuelType": "Gasoline",
+    "mileage": "18 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 700,
+    "image": "chevrolet_suburban.jpg"
+  },
+
+  {
+    "id": 6,
+    "name": "Nissan Altima",
+    "model": "2022",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "29 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 380,
+    "image": "nissan_altima.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hyundai Sonata",
+    "model": "2023",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "31 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 370,
+    "image": "hyundai_sonata.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kia Sportage",
+    "model": "2022",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "27 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 420,
+    "image": "kia_sportage.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mazda CX-5",
+    "model": "2023",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "28 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 410,
+    "image": "mazda_cx5.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Volkswagen Passat",
+    "model": "2022",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "30 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 390,
+    "image": "volkswagen_passat.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Subaru Outback",
+    "model": "2022",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "26 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 400,
+    "image": "subaru_outback.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mercedes-Benz C-Class",
+    "model": "2023",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "25 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 600,
+    "image": "mercedes_c_class.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Audi Q5",
+    "model": "2022",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "28 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 580,
+    "image": "audi_q5.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Jeep Grand Cherokee",
+    "model": "2022",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "24 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 550,
+    "image": "jeep_grand_cherokee.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Lexus ES",
+    "model": "2023",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "29 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 620,
+    "image": "lexus_es.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Ford Escape",
+    "model": "2022",
+    "seater": 5,
+    "fuelType": "Gasoline",
+    "mileage": "27 MPG",
+    "transmissionType": "Automatic",
+    "rentalPricePerMonth": 430,
+    "image": "ford_escape.jpg"
+  }
+
+]
